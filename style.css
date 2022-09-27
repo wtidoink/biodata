@@ -1,0 +1,59 @@
+/*style.css*/
+img      {
+    width: 30%;
+    border-radius: 30%;
+}
+body     {background-color: yellow;
+}
+aside    {
+          width: 30%;
+          float: right;
+          border-width: 5px;
+          border-style: solid;
+          border-color: darkred;
+         
+}
+  .mydiv1 {
+     border-width: 5px;
+     background-color: lightgreen;
+     text-align:left;
+     width: 40%;
+     border-style: solid;
+     border-color: darkred;
+     padding-left: 40px;
+     padding-right: 10px;
+
+         
+}
+.mydiv2 {
+    border-width: 5px;
+    background-color: lightgreen;
+    text-align: center;
+    border-style: solid;
+    border-color: darkred;
+         
+}
+h2,h3,h4 { 
+    font-size: 100% ; font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    text-align: center;
+    text-decoration: underline;
+
+}  
+h1 {font-size: 200% ;
+     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    text-align: center;
+    text-shadow: 2px 2px 5px red;
+    
+
+}
+button {
+         display: inline-block;
+         color:white;
+         background-color: red;
+         padding: 20px 20px;
+}
+.footer{
+        text-align: center;
+}
